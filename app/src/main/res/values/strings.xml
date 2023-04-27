@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploViewModel2</string>
+    <string name="finished">Finished</string>
+    <string name="Start">Start</string>
+    <string name="ready_to_start">Click button to start</string>
+    />
+</resources>
